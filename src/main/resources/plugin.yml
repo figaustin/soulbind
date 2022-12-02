@@ -1,0 +1,4 @@
+name: Soulbind
+version: '${project.version}'
+main: com.etsuni.soulbind.Soulbind
+api-version: 1.19
